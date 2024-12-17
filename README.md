@@ -311,13 +311,14 @@ Publish the website in the given URL.
 </html>
 ```
 # OUTPUT:
-![Screenshot 2024-12-13 182752](https://github.com/user-attachments/assets/900791b9-0ff5-4686-b45e-2d3ae05a91b1)
-![Screenshot 2024-12-13 182810](https://github.com/user-attachments/assets/c833ea1d-ce91-4f28-b084-df928dbcf9b5)
-![Screenshot 2024-12-17 190844](https://github.com/user-attachments/assets/d41534ba-c47e-4f35-bb4f-25d2407df53c)
-![Screenshot 2024-12-17 190905](https://github.com/user-attachments/assets/9840a485-52f2-4c75-9a08-268e185983e2)
-![Screenshot 2024-12-17 190928](https://github.com/user-attachments/assets/4c53536a-5a7d-4d2f-9ae0-9f23cff2a087)
+![Screenshot 2024-12-13 182752](https://github.com/user-attachments/assets/85e21168-bb22-4529-a7a5-f1262bb7c009)
+![Screenshot 2024-12-13 182810](https://github.com/user-attachments/assets/590c5bc3-77a1-4128-adf1-8f8130f924ef)
+![Screenshot 2024-12-17 190844](https://github.com/user-attachments/assets/1c2151ab-9689-490c-b862-356d689cf450)
+![Screenshot 2024-12-17 190905](https://github.com/user-attachments/assets/418b92b2-de4f-4880-b4b7-a829457bb069)
 
-![Screenshot 2024-12-17 190950](https://github.com/user-attachments/assets/32728252-781c-4040-bd05-65d8c3b2f853)
+![Screenshot 2024-12-17 190928](https://github.com/user-attachments/assets/3ce24d0e-ce55-4dfe-8c07-bbf8ab8a8c99)
+![Screenshot 2024-12-17 190950](https://github.com/user-attachments/assets/7ca0535a-36ef-4675-b409-f7803b5ab46c)
+
 
 
 # RESULT:
