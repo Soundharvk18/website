@@ -313,9 +313,12 @@ Publish the website in the given URL.
 # OUTPUT:
 ![Screenshot 2024-12-13 182752](https://github.com/user-attachments/assets/900791b9-0ff5-4686-b45e-2d3ae05a91b1)
 ![Screenshot 2024-12-13 182810](https://github.com/user-attachments/assets/c833ea1d-ce91-4f28-b084-df928dbcf9b5)
-![Screenshot 2024-12-13 182931](https://github.com/user-attachments/assets/a7755226-ef03-471d-bd49-17bcb296464e)
-![Screenshot 2024-12-13 183043](https://github.com/user-attachments/assets/762a26e8-b60c-4e28-b692-0c2c17807391)
-![Screenshot 2024-12-13 183105](https://github.com/user-attachments/assets/1538aa11-edf7-4472-b5de-da11983ced0e)
+![Screenshot 2024-12-17 190844](https://github.com/user-attachments/assets/d41534ba-c47e-4f35-bb4f-25d2407df53c)
+![Screenshot 2024-12-17 190905](https://github.com/user-attachments/assets/9840a485-52f2-4c75-9a08-268e185983e2)
+![Screenshot 2024-12-17 190928](https://github.com/user-attachments/assets/4c53536a-5a7d-4d2f-9ae0-9f23cff2a087)
+
+![Screenshot 2024-12-17 190950](https://github.com/user-attachments/assets/32728252-781c-4040-bd05-65d8c3b2f853)
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
